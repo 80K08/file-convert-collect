@@ -7,18 +7,18 @@ https://raw.githubusercontent.com/Moleys/vbook-ext/main/plugin.json
 https://raw.githubusercontent.com/dat-bi/ext-vbook/main/plugin.json
 https://raw.githubusercontent.com/duongden/vbook/main/plugin.json
 https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/plugin.json
+https://raw.githubusercontent.com/hajljnopera/vbook-ext/main/plugin.json
+https://raw.githubusercontent.com/lethituyen/vbooks-extension/refs/heads/master/plugin.json
+https://raw.githubusercontent.com/kur21/vbook-ext/refs/heads/main/plugin.json
 https://raw.githubusercontent.com/Chanhnh/vbook-ext/main/plugin.json
 https://raw.githubusercontent.com/longvuu/vbook-extensions/refs/heads/master/plugin.json
 https://raw.githubusercontent.com/TuanHai03/vbook-extensions/main/plugin.json
-https://raw.githubusercontent.com/kur21/vbook-ext/refs/heads/main/plugin.json
+https://raw.githubusercontent.com/gh369-639/vbook-ext-public/refs/heads/main/plugin.json
 https://raw.githubusercontent.com/laofun/vbook-extensions-with-filter/master/plugin.json
 https://raw.githubusercontent.com/khoa301020/vbook-ext/master/plugin.json
-https://raw.githubusercontent.com/gh369-639/vbook-ext-public/refs/heads/main/plugin.json
 https://raw.githubusercontent.com/mizhm/vbook-extensions/main/plugin.json
-https://raw.githubusercontent.com/lethituyen/vbooks-extension/refs/heads/master/plugin.json
 https://raw.githubusercontent.com/BaoBao666888/ext-vbook-w/main/plugin.json
 https://raw.githubusercontent.com/alexsonxxx/vbook/refs/heads/main/plugin.json
-https://raw.githubusercontent.com/hajljnopera/vbook-ext/main/plugin.json
 https://raw.githubusercontent.com/SPRINGPEACHVINH/vbook-ext/main/plugin.json
 https://raw.githubusercontent.com/sonzin/vbook-extension/refs/heads/main/plugin.json
 https://raw.githubusercontent.com/hieu45666/vbook_ext/main/plugin.json
@@ -28,10 +28,11 @@ https://raw.githubusercontent.com/Evamirion/vbook-ext/main/plugin.json
 https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/refs/heads/main/plugin.json
 https://raw.githubusercontent.com/kychitoge/vbook-ext/main/plugin.json
 
-https://forew.7m.pl/vbook-ext/plugin.json
-https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/plugin.json
 https://fanqie.1415918.xyz/source
 https://xn--ngc-bmz.vn/vbook/plugin-list
+https://ngốc.vn/i/vbook/extension_list.php
+https://forew.7m.pl/vbook-ext/plugin.json
+https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/plugin.json
 
 
 
@@ -40,7 +41,6 @@ https://hanzii.net/search/word/%s?hl=vi-VN
 https://www.deepl.com/en/translator#zh/en-us/%s
 https://www.google.com/search?q=%s
 https://translate.google.com/?sl=zh-CN&tl=ru&text=%s&translate
-https://xn--ngc-bmz.vn/text-translate?t=%S
 https://xn--ngc-bmz.vn/i/text/translate.php?t=%s
 https://translate.google.com/?sl=zh-CN&tl=vie&text=%s&translate
 https://www.bing.com/translator?sl=zh-CN&tl=en&text=%s
@@ -63,6 +63,7 @@ https://tratu.thi-hsk.com/search/word/%s
 https://cdn-moleys.vercel.app/html/to-romajidesu.html?q=%s
 
 https://dichnhanh.com/
+https://key.vietphrase.info/
 https://vietphrase.info
 https://doctransgpt.com/
 https://vi.ilovetranslation.com/
